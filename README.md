@@ -1,5 +1,7 @@
 # Linux-File-IO-Systems-locking
 Ex07-Linux File-IO Systems-locking
+# NAME: GOKUL SHARAN R
+# REG NO: 212223040052
 # AIM:
 To Write a C program that illustrates files copying and locking
 
